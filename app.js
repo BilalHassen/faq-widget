@@ -1,11 +1,11 @@
 const buttons = document.querySelectorAll("button")
-console.log(buttons)
+
 
 const answers = document.querySelectorAll(".answer");
-// console.dir(answers[0].id)
+
 
 let closeIcon = document.querySelectorAll(".close")
-console.log(closeIcon)
+
 
 for(const button of buttons){
     console.dir(button)
